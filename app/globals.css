@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-#app {
-	@apply bg-zinc-900 w-screen h-screen;
+body {
+	@apply h-screen w-screen bg-zinc-900;
 }
 
